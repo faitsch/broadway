@@ -5,11 +5,16 @@ body {
 }
 
 .header {
-background-image: image("resources/images/the-flatiron-building.png");
+  background-image: url("../images/flatiron.png");
+  color: white;
+}
+
+ul {
+  list-style: none;
+  font-size: 18px;
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
