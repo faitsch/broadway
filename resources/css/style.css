@@ -10,13 +10,13 @@ body {
 }
 
 a {
-  /* color: white; */
+  color: white;
   font-size: 18px;
 }
 
 ul {
   list-style: none;
-  line-height:
+  line-height: 2em;
 }
 
 h1 {
