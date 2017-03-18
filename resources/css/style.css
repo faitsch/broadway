@@ -11,11 +11,11 @@ body {
 
 a {
   color: white;
+  font-size: 18px;
 }
 
 ul {
   list-style: none;
-  font-size: 18px;
 }
 
 h1 {
