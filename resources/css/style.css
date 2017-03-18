@@ -5,17 +5,18 @@ body {
 }
 
 .building_background {
-  background-image: url("../images/the-flatiron-building.png");
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 a {
-  color: white;
+  /* color: white; */
   font-size: 18px;
 }
 
 ul {
   list-style: none;
+  line-height:
 }
 
 h1 {
